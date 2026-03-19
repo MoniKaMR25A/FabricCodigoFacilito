@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SparkJobDefinition",
+    "displayName": "DemoSpark",
+    "description": "Definición de trabajo de Spark"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "bcfd7735-27ed-98a7-447e-4636941e4577"
+  }
+}
